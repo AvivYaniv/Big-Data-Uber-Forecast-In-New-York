@@ -1,3 +1,5 @@
+[![HitCount](http://hits.dwyl.com/AvivYaniv/Big-Data-Uber-Forecast-In-New-York.svg)](http://hits.dwyl.com/AvivYaniv/Big-Data-Uber-Forecast-In-New-York)
+
 # Big-Data-Uber-Forecast-In-New-York
 
 In this project, I've received a dataset of 4.5 million [Uber](https://en.wikipedia.org/wiki/Uber) rides orders in [New-York City](https://en.wikipedia.org/wiki/New_York_City), which connects drivers and those who are interested in a ride. <br/>
