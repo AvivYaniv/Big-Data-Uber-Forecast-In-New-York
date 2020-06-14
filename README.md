@@ -42,7 +42,7 @@ Data research has been continued in creating ["heat-map" that describe the numbe
 As you witness, there is a rise in demand from 17 PM - 19 PM during workdays (probably explained by commuting from work), as well as a drop in demand during late-night hours of workdays. <br/>
 This [patterns remains consistent among the other months as well](https://github.com/AvivYaniv/Big-Data-Uber-Forecast-In-New-York/tree/master/Data%20Exploration/PeakNumHoursInDay). <br/>
 <br/>
-Besides, the trend of [total amount of orders in different monthes](https://github.com/AvivYaniv/Big-Data-Uber-Forecast-In-New-York/blob/master/Data%20Exploration/UberGrowth/Pick%20num%20%20per%20month%20is%20rising%20through%202014.png), demonstrates [Uber growth](https://github.com/AvivYaniv/Big-Data-Uber-Forecast-In-New-York/tree/master/Data%20Exploration/UberGrowth) in months April-July with slight incline during May. <br/>
+Besides, the trend of the [total amount of orders in different months](https://github.com/AvivYaniv/Big-Data-Uber-Forecast-In-New-York/blob/master/Data%20Exploration/UberGrowth/Pick%20num%20%20per%20month%20is%20rising%20through%202014.png), demonstrates [Uber growth](https://github.com/AvivYaniv/Big-Data-Uber-Forecast-In-New-York/tree/master/Data%20Exploration/UberGrowth) in months April-July with an incline during May. <br/>
 
 <p align="center">
     <img src="https://github.com/AvivYaniv/Big-Data-Uber-Forecast-In-New-York/blob/master/Data%20Exploration/UberGrowth/Pick%20num%20%20per%20month%20is%20rising%20through%202014.png?raw=true" width="50%"/>
