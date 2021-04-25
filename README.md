@@ -1,4 +1,5 @@
-[![HitCount](http://hits.dwyl.com/AvivYaniv/Big-Data-Uber-Forecast-In-New-York.svg)](http://hits.dwyl.com/AvivYaniv/Big-Data-Uber-Forecast-In-New-York)
+[visitors](https://visitor-badge.glitch.me/badge?page_id=AvivYaniv.Big-Data-Uber-Forecast-In-New-York.issue.1) <br/>
+[![HitCount](http://hits.dwyl.com/AvivYaniv/Big-Data-Uber-Forecast-In-New-York.svg)](http://hits.dwyl.com/AvivYaniv/Big-Data-Uber-Forecast-In-New-York) <br/>
 
 # Big-Data-Uber-Forecast-In-New-York
 
